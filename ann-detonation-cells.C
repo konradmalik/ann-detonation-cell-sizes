@@ -138,7 +138,7 @@ int main()
 
     *out = pow(10,*out);
 
-    printf("Cell size is %f\n", *out);
+    printf("Cell size is %f\n mm", *out);
 
     return 0;
 }
