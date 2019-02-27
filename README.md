@@ -1,5 +1,5 @@
 # ann-detonation-cell-sizes
-Source code of models developed in an article:
+Source code of models developed in the article:
 
 https://doi.org/10.1016/j.net.2018.11.004
 
